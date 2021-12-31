@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/joselipa/AndroidStudioProjects/movies/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/joselipa/AndroidStudioProjects/movies/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/joselipa/AndroidStudioProjects/movies/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/card_item.xml",
+        "source": "/home/joselipa/AndroidStudioProjects/movies/app/src/main/res/layout/card_item.xml"
+    },
+    {
+        "merged": "/home/joselipa/AndroidStudioProjects/movies/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_detail.xml",
+        "source": "/home/joselipa/AndroidStudioProjects/movies/app/src/main/res/layout/activity_detail.xml"
+    },
+    {
+        "merged": "/home/joselipa/AndroidStudioProjects/movies/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_movie.xml",
+        "source": "/home/joselipa/AndroidStudioProjects/movies/app/src/main/res/layout/item_movie.xml"
+    },
+    {
+        "merged": "/home/joselipa/AndroidStudioProjects/movies/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/character_card.xml",
+        "source": "/home/joselipa/AndroidStudioProjects/movies/app/src/main/res/layout/character_card.xml"
+    },
+    {
+        "merged": "/home/joselipa/AndroidStudioProjects/movies/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_seach.xml",
+        "source": "/home/joselipa/AndroidStudioProjects/movies/app/src/main/res/layout/fragment_seach.xml"
+    }
+]

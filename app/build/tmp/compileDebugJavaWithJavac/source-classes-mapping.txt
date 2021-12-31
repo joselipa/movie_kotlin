@@ -1,0 +1,14 @@
+com/example/movies/databinding/ActivityMainBinding.java
+ com.example.movies.databinding.ActivityMainBinding
+com/example/movies/BuildConfig.java
+ com.example.movies.BuildConfig
+com/example/movies/databinding/CardItemBinding.java
+ com.example.movies.databinding.CardItemBinding
+com/example/movies/databinding/CharacterCardBinding.java
+ com.example.movies.databinding.CharacterCardBinding
+com/example/movies/databinding/ActivityDetailBinding.java
+ com.example.movies.databinding.ActivityDetailBinding
+com/example/movies/databinding/ItemMovieBinding.java
+ com.example.movies.databinding.ItemMovieBinding
+com/example/movies/databinding/FragmentSeachBinding.java
+ com.example.movies.databinding.FragmentSeachBinding
